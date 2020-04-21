@@ -1,6 +1,7 @@
 import bindEvents from '../utils/bindEvents.js'
 import {bindProps, getPropsValues} from '../utils/bindProps.js'
 import MapElementMixin from './mapElementMixin'
+import 'core-js/modules/es7.object.entries'
 
 /**
  *
